@@ -1,1 +1,1 @@
-Sitemap: http://www.acml-conf.org/2022/sitemap.xml
+Sitemap: /2022/sitemap.xml
